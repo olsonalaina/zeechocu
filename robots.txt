@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ibaesoafe.thecognitiverealm.com/sitemap.xml
